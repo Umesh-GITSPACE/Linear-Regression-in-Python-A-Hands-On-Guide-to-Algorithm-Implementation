@@ -6,7 +6,8 @@ Synthetic Data Generation: The project begins by generating synthetic data that 
 Manual Model Construction: The core linear regression model is implemented from scratch, including:
 
 Prediction function to compute outcomes using the linear equation 
-𝑦
+y
+
 =
 𝑚
 𝑥
