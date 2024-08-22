@@ -6,14 +6,7 @@ Synthetic Data Generation: The project begins by generating synthetic data that 
 Manual Model Construction: The core linear regression model is implemented from scratch, including:
 
 Prediction function to compute outcomes using the linear equation 
-y
-
-=
-𝑚
-𝑥
-+
-𝑐
-y=mx+c.
+𝑦 =𝑚𝑥 + 𝑐
 Cost function (Mean Squared Error) to measure the model's prediction error.
 Gradient descent algorithm to iteratively optimize the slope (m) and intercept (c).
 Evaluation and Visualization: The trained model is evaluated using the calculated cost, and the fit of the regression line is visualized against the data points. The results are plotted using Matplotlib to provide a visual understanding of how well the model captures the data's trends.
